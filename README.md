@@ -1,5 +1,7 @@
 # Zepto Orders Data Analysis using SQL
 
+https://github.com/PoreddyUshasree/Zepto_Sql_Project/blob/main/Zepto_logo.png
+
 ## Overview
 This project involves analyzing the Zepto orders dataset using SQL to gain valuable insights into order trends, delivery performance, revenue generation, and customer behavior. The following README provides an in-depth explanation of the project's objectives, business problems, solutions, findings, and conclusions.
 
