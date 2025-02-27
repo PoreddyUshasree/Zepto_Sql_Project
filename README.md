@@ -186,9 +186,9 @@ This project is part of my portfolio, showcasing SQL skills essential for data a
 
 ### Stay Connected
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com)
-- **GitHub:** [Check out my projects](https://github.com)
-- **Email:** [Get in touch](mailto:example@example.com)
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/poreddy-ushasree)
+- **GitHub:** [Check out my projects](https://github.com/PoreddyUshasree)
+- **Email:** [Get in touch](mailto:poreddyushasree@gmail.com)
 
 Thank you for your support, and I look forward to sharing more projects!
 
