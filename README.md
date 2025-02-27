@@ -186,7 +186,7 @@ This project is part of my portfolio, showcasing SQL skills essential for data a
 
 ### Stay Connected
 
-- **LinkedIn:** [Connect with me][(www.linkedin.com/in/poreddy-ushasree)]
+- **LinkedIn:** [Connect with me]([www.linkedin.com/in/poreddy-ushasree](https://www.linkedin.com/in/poreddy-ushasree/))
 - **GitHub:** [Check out my projects](https://github.com/PoreddyUshasree)
 - **Email:** [Get in touch](mailto:poreddyushasree@gmail.com)
 
